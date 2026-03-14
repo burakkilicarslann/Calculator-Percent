@@ -2,12 +2,12 @@
   "name": "Percent — Smart Calculator",
   "short_name": "Percent",
   "description": "Smart percentage calculator with 6 calculation modes, currency support, and calculation history.",
-  "start_url": "/index.html",
+  "start_url": "/Calculator-Percent/index.html",
   "display": "standalone",
   "background_color": "#f5f0eb",
   "theme_color": "#f5f0eb",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/Calculator-Percent/",
   "icons": [
     {
       "src": "icons/icon-72.png",
